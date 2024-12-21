@@ -9,6 +9,7 @@ Before running the project, make sure you have the following installed:
 - Python 3.7 or higher
 - [OpenAI API key](https://beta.openai.com/signup/)
 - Langchain library
+- Langchain_community package
 
 You can install the required libraries using `pip`:
 
